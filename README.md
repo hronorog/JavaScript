@@ -1,1 +1,1 @@
-Homework for Geekbrains.ru
+Homeworks for JS1 Geekbrains.ru
